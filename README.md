@@ -43,11 +43,11 @@ git checkout 4.6.0-stable
 Run the compilation command in the `godot` submodule directory.
 
 ```bash
-# Godot 3.x:
-scons platform=iphone target=debug
-
 # Godot 4.x:
 scons platform=ios target=template_debug
+
+# Godot 3.x:
+scons platform=iphone target=debug
 ```
 
 > [!TIP]
