@@ -54,7 +54,7 @@ scons platform=ios target=template_debug
 > You don't have to wait for full engine compilation, as header files are generated first.
 > Once the actual compilation starts, you can stop it by pressing <kbd>Ctrl + C</kbd>.
 
-From the main repo root folder, run the command below to generate an `.a` static library.
+From the main repository root folder, run the command below to generate an `.a` static library.
 
 ```bash
 scons target=<debug|release|release_debug> arch=<arch> simulator=<no|yes> plugin=<plugin_name> version=<3.x|4.0>
