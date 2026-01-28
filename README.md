@@ -9,7 +9,7 @@ the project from the editor, so you need to export your project to test your cha
 
 ## Instructions
 
-### Step 1: Clone repo and obtain header files
+### Step 1: Clone repository and obtain header files
 
 There are two ways to obtain header files:
 - Option A: Use pre-extracted headers provided on the [Releases page](https://github.com/godotengine/godot-ios-plugins/releases). If the version you need is missing, you'll have to generate them yourself.
